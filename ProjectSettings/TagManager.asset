@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Annoyance
+  - Item
+  - Sucker
+  - Interactable
+  - Building
+  - Baby
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Item
+  - Sucker
+  - Buildings
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: OnGround
+    uniqueID: 2747155311
+    locked: 0
+  - name: UI
+    uniqueID: 592882321
+    locked: 0
+  - name: UIFX
+    uniqueID: 601629791
+    locked: 0

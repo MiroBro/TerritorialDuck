@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: f42dbec2a6dfb544e974380686fd10a0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AnnoyanceProper_0
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1188
+        width: 465
+        height: 932
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.04213037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba00f7916d83564392b15f1921d706e
+      internalID: -1835313599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnoyanceProper_1
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1188
+        width: 411
+        height: 775
+      alignment: 9
+      pivot: {x: 0.50653034, y: 0.074044704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504ee2d6b2ebfd246bc089387c44350e
+      internalID: 1758747011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnoyanceProper_2
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 1204
+        width: 571
+        height: 455
+      alignment: 9
+      pivot: {x: 0.49530017, y: 0.110692285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58635740bf756b449a1f6b2f77ff731
+      internalID: 2120633992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnoyanceProper_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 794
+        width: 807
+        height: 280
+      alignment: 9
+      pivot: {x: 0.50997734, y: 0.19327283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fabb9ab53a16dd45bbb07499bfe5c73
+      internalID: -2124702092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnoyanceProper_4
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 780
+        width: 402
+        height: 385
+      alignment: 9
+      pivot: {x: 0.49332377, y: 0.17933048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f6c71e17bb11440a95d86e7e59a221
+      internalID: 389729233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnoyanceProper_5
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 766
+        width: 424
+        height: 385
+      alignment: 9
+      pivot: {x: 0.4873404, y: 0.16538832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2abe49f00f03f4da53f19c4036bcb5
+      internalID: -1615504700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnoyanceProper_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 43
+        width: 277
+        height: 561
+      alignment: 9
+      pivot: {x: 0.5290675, y: 0.11249008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94a62c4b128e5d42b9184b144003088
+      internalID: 228650507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnoyanceProper_7
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 48
+        width: 649
+        height: 392
+      alignment: 9
+      pivot: {x: 0.5041354, y: 0.17136347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6162245be0bcf418d36a3fcc36107e
+      internalID: 1357769799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnoyanceProper_8
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 48
+        width: 799
+        height: 685
+      alignment: 9
+      pivot: {x: 0.49664086, y: 0.0729324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bcddbeeef8027468f36ac31e7767eb
+      internalID: 1650780090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnnoyanceProper_9
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 49
+        width: 433
+        height: 451
+      alignment: 9
+      pivot: {x: 0.45661175, y: 0.14294508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62439a10c7d892e42b8d95164951c4ec
+      internalID: 852889196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AnnoyanceProper_2: 2120633992
+      AnnoyanceProper_8: 1650780090
+      AnnoyanceProper_0: -1835313599
+      AnnoyanceProper_6: 228650507
+      AnnoyanceProper_3: -2124702092
+      AnnoyanceProper_10: 337141012
+      AnnoyanceProper_5: -1615504700
+      AnnoyanceProper_4: 389729233
+      AnnoyanceProper_1: 1758747011
+      AnnoyanceProper_9: 852889196
+      AnnoyanceProper_7: 1357769799
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

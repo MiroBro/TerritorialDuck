@@ -1,0 +1,563 @@
+fileFormatVersion: 2
+guid: 67db73802adc95b4db1b8a005d2322f8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wardrobe
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 3428
+        width: 1215
+        height: 1448
+      alignment: 9
+      pivot: {x: 0.51453316, y: 0.07318891}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d85422afb48097418c666472c1470ff
+      internalID: -825989148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bench
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 3425
+        width: 967
+        height: 862
+      alignment: 9
+      pivot: {x: 0.49999988, y: 0.08620968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5868daeda9e9ace4192320ac6f3e55a4
+      internalID: 279808832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrelPlant
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3370
+        width: 720
+        height: 975
+      alignment: 9
+      pivot: {x: 0.5, y: 0.079835236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd28329e2be68a048a7d1a2c82cc744e
+      internalID: -466069179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couldron
+      rect:
+        serializedVersion: 2
+        x: 3632
+        y: 3308
+        width: 651
+        height: 582
+      alignment: 9
+      pivot: {x: 0.51084983, y: 0.2269413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a5809f22780b342beeeaa910ca9f95
+      internalID: -463857141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glasDeco
+      rect:
+        serializedVersion: 2
+        x: 4451
+        y: 3308
+        width: 425
+        height: 630
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19729507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83852f5185c95c242b49ae00b85e6b3c
+      internalID: 468550657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoCrystal
+      rect:
+        serializedVersion: 2
+        x: 4495
+        y: 3988
+        width: 381
+        height: 415
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16811876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf94ea40cecfdbe41ac708c938b3997a
+      internalID: -1428830691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couldronFood
+      rect:
+        serializedVersion: 2
+        x: 3574
+        y: 3999
+        width: 738
+        height: 891
+      alignment: 9
+      pivot: {x: 0.4952148, y: 0.15913147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9537c2d8f296c194c94b70021b082542
+      internalID: 18095895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedRound
+      rect:
+        serializedVersion: 2
+        x: 4051
+        y: 2625
+        width: 818
+        height: 487
+      alignment: 9
+      pivot: {x: 0.49568307, y: 0.3984766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37812446ea3d50940997b21baac5e0da
+      internalID: 924336667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedPillow
+      rect:
+        serializedVersion: 2
+        x: 2956
+        y: 2618
+        width: 916
+        height: 621
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3180197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21751a7c741c03f4796174c70b393d8e
+      internalID: 28985078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedSpace
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 1785
+        width: 862
+        height: 811
+      alignment: 9
+      pivot: {x: 0.48770913, y: 0.29968953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e47bb2387db7747aad6c7eee1af833
+      internalID: -1993558367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedGlas
+      rect:
+        serializedVersion: 2
+        x: 4083
+        y: 1788
+        width: 804
+        height: 695
+      alignment: 9
+      pivot: {x: 0.5, y: 0.276419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317cf33c07b26b540b8db235a521f891
+      internalID: -1535362891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedBlue
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 996
+        width: 829
+        height: 760
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30948165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9df7dc2a227b734d97e9d9a4837fe57
+      internalID: 1181161029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedStar
+      rect:
+        serializedVersion: 2
+        x: 3982
+        y: 996
+        width: 883
+        height: 632
+      alignment: 9
+      pivot: {x: 0.5039997, y: 0.27648365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f184fd445f63249b9c692ae33bc24d
+      internalID: -969462039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanternBlue
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 138
+        width: 433
+        height: 680
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17920285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c008040b0fed8b84384c3edb66bb1454
+      internalID: -1532814059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanternStar
+      rect:
+        serializedVersion: 2
+        x: 3945
+        y: 130
+        width: 382
+        height: 688
+      alignment: 9
+      pivot: {x: 0.5921062, y: 0.16247663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519caddee1aa7624fb6bf9b9d0e55e2a
+      internalID: -1128812479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanternGlitter
+      rect:
+        serializedVersion: 2
+        x: 4425
+        y: 148
+        width: 404
+        height: 673
+      alignment: 9
+      pivot: {x: 0.5, y: 0.113130495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f63eb3c68d1f7045a904fdb04045b9a
+      internalID: 1056162311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePath
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 83
+        width: 666
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97537b3677a96941bc848917e136429
+      internalID: 1286600544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 61
+        width: 1484
+        height: 2117
+      alignment: 9
+      pivot: {x: 0.49525818, y: 0.107771404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965ab12d87b1d8b4998a6bcb9e888f9b
+      internalID: -500156807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swing
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 2338
+        width: 883
+        height: 974
+      alignment: 9
+      pivot: {x: 0.50411844, y: 0.17145741}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad8e97bbf0f4104398188ed1d3d889c
+      internalID: 876096314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 2432
+        width: 942
+        height: 884
+      alignment: 9
+      pivot: {x: 0.49625102, y: 0.12846741}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4dc0419f00ae5c4f90a6cc358a57390
+      internalID: 897759355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      lanternStar: -1128812479
+      tree: -500156807
+      glasDeco: 468550657
+      lanternGlitter: 1056162311
+      wardrobe: -825989148
+      swing: 876096314
+      barrelPlant: -466069179
+      lanternBlue: -1532814059
+      bedBlue: 1181161029
+      chest: 897759355
+      couldron: -463857141
+      bedPillow: 28985078
+      decoCrystal: -1428830691
+      bench: 279808832
+      couldronFood: 18095895
+      bedStar: -969462039
+      bedSpace: -1993558367
+      bedRound: 924336667
+      bedGlas: -1535362891
+      stonePath: 1286600544
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
