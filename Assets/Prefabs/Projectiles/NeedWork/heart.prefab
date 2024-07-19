@@ -9,7 +9,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2653386614485237832}
-  - component: {fileID: 9188240389710789775}
   m_Layer: 0
   m_Name: heart
   m_TagString: Untagged
@@ -24,6 +23,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2653386614485237833}
+  serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: -0.00081497, z: 0}
   m_LocalScale: {x: 0.15600838, y: 0.15600838, z: 0.15600838}
@@ -31,22 +31,7 @@ Transform:
   m_Children:
   - {fileID: 2653386614724993891}
   m_Father: {fileID: 0}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &9188240389710789775
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2653386614485237833}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: eb954f384920b6a48b5bcd8f9a3f3948, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  saliva: {fileID: 2653386614724993891}
-  spitProjectile: {fileID: 2653386614724993917}
 --- !u!1 &2653386614724993888
 GameObject:
   m_ObjectHideFlags: 0
@@ -74,13 +59,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2653386614724993888}
+  serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0.02, z: 0}
   m_LocalScale: {x: 0.1032025, y: 0.1032025, z: 0.1032025}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2653386614485237832}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &2653386614724993890
 SpriteRenderer:
@@ -142,13 +127,33 @@ CircleCollider2D:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2653386614724993888}
   m_Enabled: 1
+  serializedVersion: 3
   m_Density: 1
   m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
   m_IsTrigger: 1
   m_UsedByEffector: 0
-  m_UsedByComposite: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
   m_Offset: {x: -0.0000021283358, y: 0.47024018}
-  serializedVersion: 2
   m_Radius: 7.224907
 --- !u!114 &2653386614724993917
 MonoBehaviour:
@@ -162,10 +167,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 553a654dbcdbe6343b5dc2ed866e0399, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  repellantPoints: -50
-  direction: {x: -1, y: -0, z: -0}
-  auS: {fileID: 670738672804126737}
+  projectileDirection: {x: 1, y: 0, z: 0}
+  audioSource: {fileID: 0}
+  projectileID: 0
 --- !u!82 &670738672804126737
 AudioSource:
   m_ObjectHideFlags: 0
